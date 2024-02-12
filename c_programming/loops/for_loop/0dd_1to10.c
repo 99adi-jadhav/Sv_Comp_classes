@@ -1,16 +1,12 @@
 #include <stdio.h>
 
-int main() {
-    printf("Print odd numbers between 1 and 10 using a while loop:\n");
+int main() 
+{
+    printf("Print odd numbers between 1 and 10 using a for loop:\n");
 
-    int num = 1;
-    while (num <= 10) 
+    for (int i = 1; i <= 10; i += 2) 
     {
-        if (num % 2 != 0)
-        {
-            printf("%d\n", num);
-        }
-        num++;
+        printf("%d\n", i);
     }
 
     return 0;
