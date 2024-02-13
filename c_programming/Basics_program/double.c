@@ -6,4 +6,4 @@ int main() {
     return 0;
 }
 
-Output = Num is = 3.14
+Output = Num is : 3.14
