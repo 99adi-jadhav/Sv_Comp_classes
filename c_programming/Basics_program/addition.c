@@ -1,5 +1,5 @@
-#include<stdio.h>
-int main()
+#include<stdio.h>// header File
+int main() //Entry Point Function
 {
     int num1,num2,add;
     printf("Enter The First Number : ");
