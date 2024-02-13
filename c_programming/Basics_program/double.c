@@ -5,3 +5,5 @@ int main() {
     printf("Num is : %lf", d);
     return 0;
 }
+
+Output = Num is = 3.14
