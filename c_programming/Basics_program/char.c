@@ -1,4 +1,3 @@
-
 #include<stdio.h>
     int main()
 {
@@ -6,3 +5,4 @@
         printf("Character is = %c ",ch);
         return (0); 
 }
+ 
