@@ -6,3 +6,5 @@
         return (0); 
 }
  
+
+Output = Character is = A
