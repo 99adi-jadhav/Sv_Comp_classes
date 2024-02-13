@@ -10,3 +10,8 @@ int main()
     printf("Division Of Two Number is : %d",div);
     return 0;
 }
+
+Output =  
+          Enter The First Number : 10
+          Enter The Second Number : 2
+          Division Of Two Number is : 5
