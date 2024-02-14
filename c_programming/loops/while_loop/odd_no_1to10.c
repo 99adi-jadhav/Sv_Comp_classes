@@ -15,3 +15,11 @@ int main() {
 
     return 0;
 }
+
+
+Output = Print odd numbers between 1 and 10 using a while loop: 
+                     1
+                     3
+                     5
+                     7
+                     9
