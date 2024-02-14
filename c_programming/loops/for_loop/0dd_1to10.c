@@ -11,3 +11,10 @@ int main()
 
     return 0;
 }
+
+
+Output = 1
+         3
+         5 
+         7
+         9
