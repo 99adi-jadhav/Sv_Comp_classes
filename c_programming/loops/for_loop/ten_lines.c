@@ -10,3 +10,16 @@ int main()
     }
     return 0;
 }
+
+
+Output = Using a for loop:
+Line                     
+Line
+Line
+Line
+Line
+Line
+Line
+Line
+Line
+Line
