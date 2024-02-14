@@ -2,28 +2,33 @@
 int main()
 {
     int num1,num2;
-    printf("Enter your first num:\n");
+    printf("Enter your first number:\n");
     scanf("%d",&num1);
 
-printf("Enter your second number num:\n");
+    printf("Enter your second number:\n");
     scanf("%d",&num2);
 
     if(num1<num2){
 
-       printf("first number is min\n");
+       printf("First Number Is Min\n");
 
     }
     else if(num1>num2){
        
-       printf("your second number is min\n");
+       printf("Second Number Is Minimum\n");
     
     }
 
     else{
 
-        printf("both are equal\n"); 
+        printf("Both Are Equal\n"); 
 
     }
         return 0;
 
 }
+
+
+Output = Enter your first number : 10
+         Enter your second number : 10
+         Both Are Equal
