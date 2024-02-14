@@ -10,3 +10,17 @@ printf("\nUsing a while loop:\n");
     }
     return 0;
 }
+
+
+Output = 
+Using a while loop:                    
+Line
+Line
+Line
+Line
+Line
+Line
+Line
+Line
+Line
+Line
