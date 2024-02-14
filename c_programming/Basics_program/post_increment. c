@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    int num= 5;
+
+    printf("Post-increment: num = %d\n", num++);
+    printf("After post-increment: num = %d\n\n", num);
+
+    return 0;
+}
+
+
+
+Output : Post-increment: num = 5
+         After post-increment: num = 6
