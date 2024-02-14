@@ -10,12 +10,12 @@ int main()
     }
     else
     {
-        printf("Given Number Is Not Even NUmber");
+        printf("Given Number Is Not Even Number");
     }
     return 0;
 }
 
 
 Output = Enter The Number : 
-          11
-          Given Number Is Not Even NUmber
+         11
+         Given Number Is Not Even Number
