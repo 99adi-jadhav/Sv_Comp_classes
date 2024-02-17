@@ -4,10 +4,14 @@ int main()
     int x = 10, y = 20;
     if (x > y) 
     {
-        printf("x is greater than y.\n");
+        printf("x is greater than y \n");
     } else 
     {
-        printf("y is greater than or equal to x.\n");
+        printf("y is greater than or equal to x \n");
     }
     return 0;
 }
+
+
+Output : y is greater than or equal to x
+
