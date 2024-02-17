@@ -10,3 +10,10 @@ int main()
     printf("Multiplication Of Two Number is : %d",mul);
     return 0;
 }
+
+
+
+Output = Enter The First Number : 50
+         Enter The Second Number : 2
+         Multiplication Of Two Number          
+         is : 100
