@@ -8,7 +8,10 @@ int main()
     } 
     else 
     {
-        printf("The numbers are not equal.\n");
+        printf("The numbers are not equal \n");
     }
   return 0;
 }
+
+
+Output = The numbers are not equal
