@@ -3,11 +3,14 @@ int main()
 {    int number = 7;
     if (number % 2 == 0) 
     {
-        printf("The number is even.\n");
+        printf("The number is even \n");
     } else 
     {
-        printf("The number is odd.\n");
+        printf("The number is odd \n");
     }
         return 0;
 }
+
+
+ Output : The number is odd
    
