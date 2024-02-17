@@ -8,7 +8,7 @@ int main()
     } 
     else if (temperature >= 20) 
     {
-        printf("The weather is pleasant.\n");
+        printf("The weather is pleasant \n");
     } 
     else 
     {
@@ -16,3 +16,6 @@ int main()
     }
     return 0;
 }
+
+
+Output : The weather is pleasant
