@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////
-// Date :  
+// Date : 29 Feb 2024
 // Author : Jadhav Aditya Santosh
-// Problem Statement :                                                   
-// Concept : 
-// Expected Output : 
+// Problem Statement :                                                     
+// Concept : Basics Program
+// Expected Output : Addition Of Ten Number.....!
 //////////////////////////////////////////////////////////////
 
 #include<stdio.h>
@@ -31,7 +31,7 @@ int main()
     printf("\nEnter The Tenth Number : ");
     scanf("%d",&num10);
     add = num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;
-    printf("\nAddition Of Two Number is : %d \n",add);
+    printf("\nAddition Of Ten Number is : %d \n",add);
     return 0;
 }
 
