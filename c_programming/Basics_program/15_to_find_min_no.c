@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////
+// Date : 29 Feb 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to find Minimum Number
+// Concept : Basics Program
+// Expected Output :     Enter your first number : 10
+//                       Enter your second number : 10
+//                       Both Are Equal   
+//////////////////////////////////////////////////////////////
+
+
 #include<stdio.h>
 int main()
 {
