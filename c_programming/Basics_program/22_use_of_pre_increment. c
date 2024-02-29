@@ -1,0 +1,27 @@
+//////////////////////////////////////////////////////////////
+// Date : 29 Feb 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to use of pre-increment....
+// Concept : Basics Program
+// Expected Output :       pre-increment: num = 6
+//                         After post-increment: num = 6
+//////////////////////////////////////////////////////////////
+
+
+
+
+#include <stdio.h>
+
+int main() {
+   
+    int num = 5;
+    
+    printf("Pre-increment: num = %d\n", ++num);
+    printf("After pre-increment: num = %d\n", num);
+
+    return 0;
+}
+
+
+Output : Pre-increment: num = 6
+         After pre-increment: num = 6
