@@ -1,3 +1,11 @@
+//////////////////////////////////////////////////////////////
+// Date :  
+// Author : Jadhav Aditya Santosh
+// Problem Statement :                                                   
+// Concept : 
+// Expected Output : 
+//////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 int main()
 {
