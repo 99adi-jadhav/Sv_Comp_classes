@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to print substraction of two numbers...            
+// Concept : Use of Scanf Function
+// Expected Output : 50 - 2 = 48
+//////////////////////////////////////////////////////////////
+
+
+
+
 #include<stdio.h>
 int main()
 {
