@@ -1,3 +1,15 @@
+//////////////////////////////////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to print multiplication of two Numbers....
+// Concept : Use of Scanf Function
+// Expected Output :       Enter The First Number : 5
+//                         Enter The Second Number : 2
+//                         Multiplication Of Two Number is : 10
+////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
 int main()
 {
