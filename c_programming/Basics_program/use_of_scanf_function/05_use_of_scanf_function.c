@@ -6,3 +6,8 @@ int main() {
     printf("You entered: %d and %d\n", a, b);
     return 0;
 }
+
+
+
+Output :    Enter two integers separated by a space: 12 30
+            You entered: 12 and 30
