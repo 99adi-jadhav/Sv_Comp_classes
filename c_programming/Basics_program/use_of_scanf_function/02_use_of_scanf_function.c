@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to print a integer.....          
+// Concept : Use of Scanf Function
+// Expected Output :  Enter an integer: 100
+//                    You entered: 100
+//////////////////////////////////////////////////////////////
+
+
 #include<stdio.h>
 int main() {
     int number;
