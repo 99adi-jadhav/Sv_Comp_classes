@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////
 // Date : 01 March 2024
 // Author : Jadhav Aditya Santosh
-// Problem Statement : write a program to print a integer.....          
+// Problem Statement : write a program to print a integer integer.....          
 // Concept : Use of Scanf Function
 // Expected Output :  Enter an integer: 100
 //                    You entered: 100
