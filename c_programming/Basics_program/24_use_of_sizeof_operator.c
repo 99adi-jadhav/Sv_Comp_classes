@@ -1,3 +1,21 @@
+//////////////////////////////////////////////////////////////
+// Date : 29 Feb 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program use of size of operator.....
+// Concept : Basics Program
+// Expected Output :        	Size of integer is : 4
+//				Size of float is : 4
+//				Size of double is : 8 
+// 				Size of character is : 1
+// 				Size of short integer is : 2
+//				Size of long integer is : 8
+//				Size of long double is : 16
+//////////////////////////////////////////////////////////////
+
+
+
+
+
 #include<stdio.h>
 
 int main()
