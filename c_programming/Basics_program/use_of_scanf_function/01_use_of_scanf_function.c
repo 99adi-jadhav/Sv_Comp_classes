@@ -10,3 +10,9 @@ int main()
     printf("Substraction Of Two Number is : %d",sub);
     return 0;
 }
+
+
+Output : 
+            Enter The First Number : 50
+            Enter The Second Number : 2
+            Substraction Of Two Number is : 48
