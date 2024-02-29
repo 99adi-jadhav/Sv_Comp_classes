@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////
+// Date : 29 Feb 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to print Multilines 
+// Expected Output :Multilines    
+//////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 int main()
 {
