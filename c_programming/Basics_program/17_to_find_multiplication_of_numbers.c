@@ -1,3 +1,12 @@
+//////////////////////////////////////////////////////////////
+// Date : 29 Feb 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to Find Multiplication
+// Expected Output :50 * 2 = 100   
+//////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
 int main()
 {
