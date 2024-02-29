@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////
 // Date : 29 Feb 2024
 // Author : Jadhav Aditya Santosh
-// Problem Statement :                                                     
+// Problem Statement : write a program to Print  10 Random Number Addition                                                     
 // Concept : Basics Program
 // Expected Output : Addition Of Ten Number.....!
 //////////////////////////////////////////////////////////////
