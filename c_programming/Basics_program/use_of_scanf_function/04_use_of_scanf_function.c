@@ -6,3 +6,7 @@ char character;
     printf("You entered: %c\n", character);
     return 0;
 }
+
+
+Output :        Enter a character: A    
+                You entered: A
