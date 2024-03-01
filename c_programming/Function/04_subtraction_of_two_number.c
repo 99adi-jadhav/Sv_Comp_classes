@@ -1,3 +1,16 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to Print substraction of two number using function            
+// Concept : Function Program
+// Expected Output :     Enter value of num1 = 100
+//                       Enter value of num2 = 50
+//                       substraction  of 100 & 50 is = 50
+//////////////////////////////////////////////////////////////
+
+
+
+
 #include<stdio.h>
 
         int main()
