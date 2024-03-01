@@ -1,3 +1,15 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : To print star matrix format...!
+// Concept : loops
+// Expected Output :               *       *       *       * 
+//                                 *       *       *       * 
+//                                 *       *       *       * 
+//                                 *       *       *       * 
+//                                 *       *       *       * 
+//                                 *       *       *       * 
+//////////////////////////////////////////////////////////////
 
 
 
