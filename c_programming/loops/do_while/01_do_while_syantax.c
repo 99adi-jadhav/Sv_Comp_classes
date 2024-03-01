@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : Do-while syantax
+// Concept : loops
+// Expected Output :  First do while loop
+//	 	      0  1  2  3  4  5  6  7  8  9 	
+//////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
 int main()
 {
