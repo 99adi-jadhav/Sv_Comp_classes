@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to Print Multiplication of two number using function            
+// Concept : Function Program
+// Expected Output :     Enter value of num1 = 5
+//                       Enter value of num2 = 5
+//                       Multiplication  of 5 & 5 is = 25
+//////////////////////////////////////////////////////////////
+
+
 #include<stdio.h>
 
         int main()
