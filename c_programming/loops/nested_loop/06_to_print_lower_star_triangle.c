@@ -1,3 +1,16 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : to print lower triangle in * format...!
+// Concept : loops
+// Expected Output :  * 
+//                    *      * 
+//                    *      *      * 
+//                    *      *      *      * 
+//////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
     int main()
  {
