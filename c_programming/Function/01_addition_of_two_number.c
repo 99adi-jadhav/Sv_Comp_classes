@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : write a program to Print addition of two number using function            
+// Concept : Function Program
+// Expected Output :     Enter value of num1 = 100
+//                       Enter value of num2 = 200
+//                       Addition  of 100 & 200 is = 300 
+//////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 
         int main()
