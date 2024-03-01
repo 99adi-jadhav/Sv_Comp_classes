@@ -18,7 +18,7 @@ int main()
     printf("\t 00  \n");
     printf("        \t 01  \n");
     printf("                \t 02  \n");
-    printf("                        \t 03  \n");
+    printf("                        \t 04  \n");
     return 0;
     
 }
