@@ -1,3 +1,12 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : Example Of Continue Statement....  
+// Concept : If-else statement Program
+// Expected Output :  Skip 3 number
+//////////////////////////////////////////////////////////////
+
+
 #include <stdio.h>
     int main()
      {
