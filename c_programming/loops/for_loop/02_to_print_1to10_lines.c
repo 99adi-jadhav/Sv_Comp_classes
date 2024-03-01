@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////
 // Date : 01 March 2024
 // Author : Jadhav Aditya Santosh
-// Problem Statement : For Loop
+// Problem Statement : print 1 to 10 numbers
 // Concept : loops
 // Expected Output :  Print numbers 1 to 10 using a for loop: 
 //          1
