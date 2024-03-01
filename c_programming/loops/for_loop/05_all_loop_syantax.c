@@ -1,3 +1,22 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement :	Syantax for loop &print 0 to 9...... 
+// Concept : loops
+// Expected Output : Print First loop 
+//					0 
+//					1 
+//					2 
+//					3 
+//					4 
+//					5 
+//					6 
+//					7 
+//					8 
+//					9 
+//////////////////////////////////////////////////////////////
+
+
 #include<stdio.h>
 int main()
 {
