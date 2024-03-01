@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : To print addition from 1t010....!
+// Concept : loops
+// Expected Output :  Addition Of Two Number is : 55
+//////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
 int main()
 {
