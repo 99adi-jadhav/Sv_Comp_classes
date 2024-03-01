@@ -1,3 +1,16 @@
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement : to print lower triangle in 00 format...!
+// Concept : loops
+// Expected Output :  00 
+//                    10      11 
+//                    20      21      22 
+//                    30      31      32      33 
+//////////////////////////////////////////////////////////////
+
+
+
 #include<stdio.h>
     int main()
  {
