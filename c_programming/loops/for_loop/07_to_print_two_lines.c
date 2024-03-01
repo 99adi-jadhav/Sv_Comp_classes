@@ -1,4 +1,11 @@
-
+//////////////////////////////////////////////////////////////
+// Date : 01 March 2024
+// Author : Jadhav Aditya Santosh
+// Problem Statement :print 2 lines using for loop
+// Concept : loops
+// Expected Output :  Using a for loop :  line
+//                                        line
+////////////////////////////////////////////////////////////////
 
 
 #include <stdio.h>
