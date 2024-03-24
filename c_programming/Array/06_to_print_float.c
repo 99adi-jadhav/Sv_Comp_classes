@@ -7,7 +7,7 @@
 
 int main() {
     
-    float arr[5] = {1.1, 2.2, 3.3};
+    float arr[3] = {1.1, 2.2, 3.3};
     
     printf("%f %f %f\n", arr[0], arr[1], arr[2]);
     
